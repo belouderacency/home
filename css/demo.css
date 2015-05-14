@@ -127,7 +127,7 @@ h2 {
 {
 	body
 	{
-		
+		width: 520px;
 	}
 	
 	h1 {
@@ -139,7 +139,7 @@ h2 {
 		text-transform:uppercase;
 		line-height: 1.5;
 		color: #000;
-		text-align: center;
+		text-align: center;}
 	
 	.container,
 	#wrapper
