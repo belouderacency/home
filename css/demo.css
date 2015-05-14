@@ -127,10 +127,20 @@ h2 {
 {
 	body
 	{
-		-webkit-box-shadow: inset 0 0 9.375em rgba( 0, 0, 0, .5 ); /* 150 */
-		-moz-box-shadow: inset 0 0 9.375em rgba( 0, 0, 0, 5 ); /* 150 */
-		box-shadow: inset 0 0 9.375em rgba( 0, 0, 0, .5 ); /* 150 */
+		
 	}
+	
+	h1 {
+		margin-top: 95px;
+		margin-bottom: 30px;
+		font-size: 40px;
+		font-family: 'Biryani', sans-serif;	
+		font-weight: 900;
+		text-transform:uppercase;
+		line-height: 1.5;
+		color: #000;
+		text-align: center;
+	
 	.container,
 	#wrapper
 	{
